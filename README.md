@@ -65,4 +65,4 @@ Academic Citation
 
 If utilizing this framework or discussing the feature-pruning biological insights for clinical research, please cite:
 
-Harishankar BGV, et al. Machine Learning-Driven Prediction of Complete Clinical Response and LPLN Sterilization in Rectal Cancer: Augmenting Organ Preservation. Presented at HAI Conclave, Bengaluru, 2026.
+Harishankar BGV, et al. Machine Learning-Driven Prediction of Complete Clinical Response and Lateral Pelvic Lymph Node Sterilization in Rectal Cancer: Augmenting Organ Preservation.
