@@ -42,7 +42,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone [https://github.com/YourUsername/Rectal-Cancer-Dual-AI-Suite.git](https://github.com/iambgvhari-doc/Rectal-Cancer-Dual-AI-Suite.git)
+git clone [https://github.com/imbgvhari-doc/Rectal-Cancer-Dual-AI-Suite.git](https://github.com/iambgvhari-doc/Rectal-Cancer-Dual-AI-Suite.git)
 cd Rectal-Cancer-Dual-AI-Suite
 
 
